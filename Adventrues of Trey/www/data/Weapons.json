@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"animationId":6,"description":"Cheap, weak, sucks...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Starter Sword","note":"","params":[0,0,10,0,0,0,3,0],"price":200,"wtypeId":2},
+{"id":2,"animationId":6,"description":"Cheap, weak, sucks...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Starter Axe","note":"","params":[0,0,12,0,0,0,-2,0],"price":200,"wtypeId":4},
+{"id":3,"animationId":76,"description":"Cheap, weak, sucks...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Starter Staff","note":"","params":[0,0,10,0,0,0,0,0],"price":200,"wtypeId":6},
+{"id":4,"animationId":11,"description":"Cheap, weak, sucks...","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Starter Bow ","note":"","params":[0,0,10,0,0,0,0,0],"price":200,"wtypeId":7}
+]
